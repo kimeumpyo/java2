@@ -1,7 +1,8 @@
 package exam07;
 
 public class Animal {
-    public void move(){
+
+    public void move() {
         System.out.println("움직인다.");
     }
 }
