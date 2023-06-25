@@ -1,8 +1,8 @@
 package exam02;
 
 public class Ex03 {
-    public static void main(String[] args){
-        Schedule2 s1 = new Schedule2(2023,7,25);
+    public static void main(String[] args) {
+        Schedule2 s1 = new Schedule2(2023, 7, 25);
 
         // s1.setYear(2023);
         // s1.setMonth(6);

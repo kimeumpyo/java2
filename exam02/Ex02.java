@@ -8,6 +8,6 @@ public class Ex02 {
 
         a.num3 = 30; // protected
 
-        // a.num4 = 40; // private 
+        // a.num4 = 40; // private
     }
 }

@@ -7,5 +7,5 @@ public class A {
 
     protected int num3; // default + private
 
-    private int num4; 
+    private int num4;
 }

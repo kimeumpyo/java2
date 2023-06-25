@@ -6,7 +6,7 @@ public class Student {
 
     String name; // 이름 -> 힙 영역 메모리
     String subject; // 전공과목 -> 힙 영역 메모리
-   
+
     public Student(int id, String name, String subject) {
         this.id = id;
         this.name = name;
@@ -21,10 +21,10 @@ public class Student {
         // this.study();
         System.out.println("id=" + id + ", name=" + name + ", subject=" + subject);
         // staticMethod(); // 가능
-        // id = 1000;  // 가능
+        // id = 1000; // 가능
     }
 
-    static void staticMethod(){
+    static void staticMethod() {
         System.out.println("정적 메서드!");
         // this.showInfo(); // 사용불가
         // this.name = 10; // 사용불가
